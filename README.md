@@ -43,8 +43,8 @@ Supports `&` color codes (default: "&4This is not a joinable server!")
 + `-motd motd` Message to set the MOTD to. Supports `&` colors as well as `/n`
 as the newline seperator (default "A Golang inplace server")
 + `-serverVersionName name` Sets the name of the version of Minecraft to respond
-as (default "1.10.2")
+as (default "1.12.2")
 + `-serverVersionNumber number` Sets the protocol version of Minecraft to 
-respond as (default 210)
+respond as (default 340)
 
 
